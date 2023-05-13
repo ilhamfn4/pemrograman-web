@@ -3,7 +3,7 @@
     $NIP = "121103004";
     $Nama = "Muhamad Ilham Fauzan";
     $GajiPokok = 5000000;
-    $Bonus = 500000;
+    $Bonus = 800000;
 
     $Tunjangan = $GajiPokok * 5 / 100;
     $Pajak = $GajiPokok * 10 / 100;
