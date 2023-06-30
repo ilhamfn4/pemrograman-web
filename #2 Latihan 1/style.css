@@ -1,0 +1,41 @@
+div {
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.container {
+    background-color: black;
+}
+
+div.header {
+    background-color: yellow;
+}
+
+div.menu {
+    background-color: cyan;
+}
+
+div.height-default {
+    height: 500px;
+}
+
+div.sidebar {
+    background-color: green;
+    width: 20%;
+    float: left;
+    padding-right: 10px;
+}
+
+div.content {
+    background-color: blue;
+    color: white;
+    width: 77%;
+    margin-left: 400px;
+    padding-left: 10px;
+}
+
+div.footer {
+    background-color: black;
+    color: white;
+}
